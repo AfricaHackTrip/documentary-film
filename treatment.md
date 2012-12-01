@@ -6,36 +6,73 @@ In October 2013 a group of software developers, designers and bloggers will trav
 
 In areas such as mobile computing or micropayments, these places are actually more technologically advanced than we are in Europe or the U.S.. We want to see how it works in real life with our own eyes. And with our cameras. We will talk to local hackers and entrepreneurs, look at what they do and document everything. And when we come back we will show the world what we have learned.
 
-
 ### Who are we
 
-* 11 software developers, designers, bloggers, entrepreneus from Europe and the U.S.
+We are 11 software developers, designers, bloggers, entrepreneus from Europe and the U.S.
+
+Alexander Lang is an amateur film maker with experience in documentary films (conferences, tech events, trips) and small film productions (web tv series).
+
+TBD: other film/photography/tv/radio experience.
 
 ### Format
 
 * 20-30 mins. documentary
-* interviews: local technology leaders, developers, others
+* interviews: local technology leaders, developers, users
 * filming events and our travels
+
+#### Outline
+
+TBD
 
 ### Goals
 
-* learn (from Africa) and teach (the western world)
+Learn (from Africa) and teach (the western world).
 
 ### Trip Details
 
-* four countries in four weeks: Kenya, Uganda, Rwanda, Tanzania
-* self-organized, one person per location
+Four countries in four weeks: Kenya, Uganda, Rwanda, Tanzania.
+
+Self-organized, one person per location.
 
 ### Events
 
-* self-organized hackathons: working on open source projects together with locals
-* existing events we will participate in: TBD
+Self-organized hackathons: working on open source projects together with locals.
+
+Existing events we will participate in: TBD
 
 ### Budget Planning
 
-* film gear
-* post production: editing, grading, art
-* funding/sponsorships
-* screenings/release: release online under Creative Commons license
+#### Pre production
+
+TBD (not anticipation major costs)
+
+#### Film gear
+
+Wwe will need to rent equipment for four weeks:
+
+* cameras: one pro video (like Canon C300), two B Cameras (DSLRs)
+* lights: 2-3 LED panels
+* 1-2 tripods, shoulder rig
+* one audio recorder, 2 microphones
+* storage: flash cards (~512GB), hard disks (4TB)
+
+#### Post production
+
+Editing: paid (how much?)
+Grading: paid (how much?)
+Art: can be provided by participating designers
+
+#### Funding/sponsorships
+
+* (EU) film funds
+* commercial sponsors: tech companies (e.g. GitHub), Film companies (Canon, Sony etc.)
+
+#### Screenings/release
+
+Possible screenings in Berlin/San Francisco.
+
+Release online under Creative Commons license.
+
+---
 
 \* and Australia of course :)
