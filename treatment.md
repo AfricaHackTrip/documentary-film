@@ -6,6 +6,12 @@ In October 2013 a group of software developers, designers and bloggers will trav
 
 In areas such as mobile computing or micropayments, these places are actually more technologically advanced than we are in Europe or the U.S.. We want to see how it works in real life with our own eyes. And with our cameras. We will talk to local hackers and entrepreneurs, look at what they do and document everything. And when we come back we will show the world what we have learned.
 
+### Goals
+
+*Learn (from Africa) and teach (the western world)*.
+
+Before diving into this project we were mostly ignorant about technological developments in African countries. We feel that too many people are the same, and as a result a lot of opportunities are lost. We want to change that. By producing a short film and releasing it online for free we have the chance to make a big impact. We want to educate people in the western world about the developments in Africa, motivate deveopers to connect to projects, entrepreneurs to go into these markets.
+
 ### Who are we
 
 We are 11 software developers, designers, bloggers, entrepreneus from Europe and the U.S.
@@ -23,10 +29,6 @@ TBD: other film/photography/tv/radio experience.
 #### Outline
 
 TBD
-
-### Goals
-
-Learn (from Africa) and teach (the western world).
 
 ### Trip Details
 
