@@ -44,7 +44,7 @@ Existing events we will participate in: TBD
 
 #### Pre production
 
-TBD (not anticipation major costs)
+TBD (not anticipating any major costs)
 
 #### Film gear
 
