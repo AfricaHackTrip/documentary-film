@@ -41,7 +41,9 @@ TBD: other film/photography/tv/journalist experience.
 * 20-30 mins. documentary
 * interviews: local technology leaders, developers, users
 * filming events and our travels
-* target audience: developers, people interested in technology
+* target audience: developers, people interested in technology and developments in Africa
+* filmed on digital video cameras/DSLRs
+* distribution: online (vimeo), film festivals (?)
 
 ## Outline
 
@@ -63,6 +65,8 @@ Four countries in four weeks: Kenya, Uganda, Rwanda, Tanzania.
 Self-organized journey, one person is responsible for each location.
 
 Questions asked: TBD
+
+TODO: conclusions, structure (beginning, middle, end)
 
 TBD
 
